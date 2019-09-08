@@ -1,3 +1,5 @@
 # Goland
 .idea
 
+bin/
+ksync-syncthing-test
